@@ -32,3 +32,13 @@ Dash = 1.0s ON
 Between dot/dash = 0.1s OFF
 
 Between letters = 2.0s OFF
+
+For routing.png-it's the result of:
+•	192.168.15.0 / 255.255.255.0
+•	192.168.16.0 / 255.255.255.0
+•	192.168.17.0 / 255.255.255.0
+•	192.168.18.0 / 255.255.255.0
+•	192.168.19.0 / 255.255.255.0
+•	192.168.20.0 / 255.255.255.0
+
+Please allocate IP addresses to the routers (R1, R2, R3) as well as your users (Joe, Bill, Jane)
